@@ -47,6 +47,11 @@
 
 <p></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jxroot/freeuse/refs/heads/main/find_file.ps1.png" alt="PowerShell" width="700"/>
+</p>
+
+
 > This PowerShell script is designed to search for files across specified drives, filtering them based on their file extensions, and then returning information about the files.
 
 
@@ -71,16 +76,14 @@ This script is flexible and allows detailed control over what types of files to 
 
 <p></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jxroot/freeuse/refs/heads/main/system_info.ps1.png" alt="PowerShell" width="700"/>
+</p>
+
+
 > This PowerShell script collects a variety of system information, formats it into an HTML page, and opens that page in the default web browser.
 
-Customization Options:
 
-    To show only counts: Set $showPaths = $false.
-    To process all files: Set $processAll = $true, and use $excludeExtensions to specify which file types to ignore.
-    To include specific file types: Use $includeExtensions to list the extensions you want to process, and set $processAll = $false.
-    To process all drives: Set $selectedDrives = @() to include all filesystem drives.
-
-This script is flexible and allows detailed control over what types of files to search for, which drives to search, and whether to display full file paths or just counts.
 </details>
 
 # Python
