@@ -56,9 +56,3 @@ function Test-Credential {
         }
     }
 }
-
-# Example usage for local testing with a plain-text password
-# Test-Credential -Scope "Local" -CredentialUserName "mohammad" -PlainPassword "MySecurePassword123"
-
-# Example usage for remote testing with a plain-text password
-# Test-Credential -Scope "Remote" -ComputerName "RemoteServer01" -CredentialUserName "DOMAIN\Username" -PlainPassword "MySecurePassword123"
