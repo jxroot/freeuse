@@ -48,7 +48,7 @@
 <p></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jxroot/freeuse/refs/heads/main/find_file.ps1.png" alt="find_file" width="700"/>
+  <img src="https://raw.githubusercontent.com/jxroot/freeuse/refs/heads/main/Source/find_file.ps1.png" alt="find_file" width="700"/>
 </p>
 
 
@@ -77,7 +77,7 @@ This script is flexible and allows detailed control over what types of files to 
 <p></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jxroot/freeuse/refs/heads/main/system_info.ps1.png" alt="system_info" width="700"/>
+  <img src="https://raw.githubusercontent.com/jxroot/freeuse/refs/heads/main/Source/system_info.ps1.png" alt="system_info" width="700"/>
 </p>
 
 
@@ -94,7 +94,7 @@ This script is flexible and allows detailed control over what types of files to 
 <p></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jxroot/freeuse/refs/heads/main/check_cred.ps1.png" alt="check_cred" width="700"/>
+  <img src="https://raw.githubusercontent.com/jxroot/freeuse/refs/heads/main/Source/check_cred.ps1.png" alt="check_cred" width="700"/>
 </p>
 
 
