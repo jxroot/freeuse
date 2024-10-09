@@ -24,6 +24,12 @@
 <li><a href="#check_cred.ps1">check_cred.ps1</a></li>
 </ul>
 </li>
+<li><a href="#Bash">Bash</a>
+<ul>
+<li><a href="#setup_tor_apache.sh">setup_tor_apache.sh</a></li>
+
+</ul>
+</li>
 <li><a href="#Python">Python</a>
 <ul>
 
@@ -115,7 +121,29 @@ Test-Credential -Scope "Remote" -ComputerName "RemoteServer01" -CredentialUserNa
 
 </details>
 
+# Bash
 
+<p align="center" id="Bash">
+  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Python" width="170"/>
+</p>
+
+<details id="setup_tor_apache.sh"><summary>
+
+`setup_tor_apache.sh` tested on ubuntu 23
+
+</summary>
+
+<p></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jxroot/freeuse/refs/heads/main/Source/setup_tor_apache.sh.png" alt="system_info" width="700"/>
+</p>
+
+
+> The provided script automates the process of setting up a Tor hidden service using Apache on an Ubuntu system.
+
+
+</details>
 
 # Python
 
