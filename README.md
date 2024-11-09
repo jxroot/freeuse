@@ -22,6 +22,9 @@
 <li><a href="#find_file.ps1">find_file.ps1</a></li>
 <li><a href="#system_info.ps1">system_info.ps1</a></li>
 <li><a href="#check_cred.ps1">check_cred.ps1</a></li>
+<li><a href="#secure_delete.ps1">secure_delete.ps1</a></li>
+<li><a href="#clear_log.ps1">clear_log.ps1</a></li>
+<li><a href="#list_format.ps1">list_format.ps1</a></li>
 </ul>
 </li>
 <li><a href="#Bash">Bash</a>
@@ -31,6 +34,10 @@
 </ul>
 </li>
 <li><a href="#Python">Python</a>
+<ul>
+<li><a href="#browser_password .py">browser_password .py</a></li>
+
+</ul>
 <ul>
 
 
@@ -124,7 +131,7 @@ Test-Credential -Scope "Remote" -ComputerName "RemoteServer01" -CredentialUserNa
 # Bash
 
 <p align="center" id="Bash">
-  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Python" width="170"/>
+  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="170"/>
 </p>
 
 <details id="setup_tor_apache.sh"><summary>
@@ -151,6 +158,24 @@ Test-Credential -Scope "Remote" -ComputerName "RemoteServer01" -CredentialUserNa
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="320"/>
 </p>
 
+
+<details id="browser_password .py"><summary>
+
+`Browser_Password .py` tested on Windows 11 Build 26100
+
+</summary>
+
+<p></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jxroot/freeuse/refs/heads/main/Source/Browser_Password .py.png" alt="system_info" width="700"/>
+</p>
+
+
+> This Python script is designed to extract and decrypt saved login credentials (i.e., usernames and passwords) from several popular Chromium-based browsers, including Brave, Chrome, Opera, Edge, Chromium, and Arc. The script targets the Login Data database file and uses the Local State file for decryption keys, leveraging the AES encryption used by these browsers.
+
+
+</details>
 
 
 </p>
