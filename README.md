@@ -182,7 +182,19 @@ Test-Credential -Scope "Remote" -ComputerName "RemoteServer01" -CredentialUserNa
 
 
 
+## ⚠️ Legal & Ethical Disclaimer
 
+🚨 This Repo is developed strictly for educational and authorized security testing purposes only.
+
+🔬 It is intended to help cybersecurity professionals, researchers, and enthusiasts understand post-exploitation, red teaming, and detection techniques in lab or controlled environments.
+
+❌ Do NOT use this tool on any system or network without explicit permission. Unauthorized use may be illegal and unethical.
+
+🛡 The author takes no responsibility for any misuse or damage caused by this project.
+
+---
+
+> Always hack responsibly. 💻🔐
 
 
 
